@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-07T18:55:55 IST" name="Default suite" finished-at="2023-02-07T18:56:08 IST" duration-ms="13174">
+    <groups>
+    </groups>
+    <test started-at="2023-02-07T18:55:55 IST" name="Default test" finished-at="2023-02-07T18:56:08 IST" duration-ms="13174">
+      <class name="com.TestCases.AmazonSearchProductsNoofMobile">
+        <test-method signature="amazonSearch()[pri:0, instance:com.TestCases.AmazonSearchProductsNoofMobile@79767781]" started-at="2023-02-07T18:55:55 IST" name="amazonSearch" finished-at="2023-02-07T18:56:08 IST" duration-ms="13018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonSearch -->
+      </class> <!-- com.TestCases.AmazonSearchProductsNoofMobile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

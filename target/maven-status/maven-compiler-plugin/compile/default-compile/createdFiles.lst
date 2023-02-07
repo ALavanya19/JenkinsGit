@@ -1,0 +1,5 @@
+com\ExcelOperations\ExcelFile.class
+com\CommanActions\CommanActionsClass.class
+com\Log\Log.class
+com\Config\PropFileConfigure.class
+com\BaseClass\BaseTest.class
